@@ -1,0 +1,26 @@
+#modalSignIn .modal-content{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+#modalSignUp .modal-content{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  input.empty {
+    font-family: 'Font Awesome 5 Pro', 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+}
